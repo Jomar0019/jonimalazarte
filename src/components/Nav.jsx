@@ -11,7 +11,7 @@ const Nav = () => {
     }
 
   return (
-    <div className="w-full shadow-md fixed">
+    <div className="w-full shadow-md fixed bg-white">
       <div className="max-w-[1400px] mx-auto flex justify-between items-center h-[70px] px-6 md:px-0">
         <h1 className="text-2xl font-bold">Joni Malazarte</h1>
         <ul className="hidden md:flex gap-6 font-semibold ">

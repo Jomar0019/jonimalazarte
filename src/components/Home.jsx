@@ -15,7 +15,7 @@ const Home = () => {
                         'Graphic Designer',
                         2000,
                     ]}
-                    wrapper="div"
+                    wrapper="span"
                     speed={50}
                     style={{ display: 'inline', paddingLeft: '10px' }}
                     repeat={Infinity}
