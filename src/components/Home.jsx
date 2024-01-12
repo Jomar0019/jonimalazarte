@@ -6,14 +6,14 @@ const Home = () => {
     <div className="w-full h-screen">
         <div className="max-w-[1400] mx-auto flex justify-center items-center h-full">
             <div>
-                <h1 className='text-[#303030] text-4xl md:text-5xl font-bold'>{`I'm Joni Malazarte`}</h1>
+                <h1 className='text-[#303030] text-4xl md:text-7xl font-bold'>{`I'm Joni Malazarte`}</h1>
                 <h2 className='text-[#303030] flex justify-center text-2xl md:text-3xl pt-6'>{`I'm a `}
                 <TypeAnimation
                     sequence={[
                         'Author',
-                        2000,
+                        4000,
                         'Graphic Designer',
-                        2000,
+                        4000,
                     ]}
                     wrapper="span"
                     speed={50}
